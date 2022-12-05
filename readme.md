@@ -13,6 +13,10 @@ Esse Player é bastante simples no quesito de opções de interação.
 Nesse momento não é possível inserir novas músicas ou excluir uma que já exista no repertório.
 Apenas podemos ouvir o que já foi escolhido.
 <br>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7a39c69-ca99-4d8c-8e71-e16b76225c01/deploy-status)](https://app.netlify.com/sites/andersonplayer/deploys)
+
+
 <br>
 
 ## Screenshot das telas do site 
